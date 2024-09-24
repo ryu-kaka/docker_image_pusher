@@ -1,1 +1,1 @@
-node:18-alpine
+canal/canal-server:v1.1.1
