@@ -1,1 +1,1 @@
-canal/canal-server:v1.1.7
+openjdk:17.0.2-oraclelinux8
