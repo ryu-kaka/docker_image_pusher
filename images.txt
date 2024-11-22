@@ -1,1 +1,4 @@
-openjdk:17.0.2-oraclelinux8
+busybox:1.32
+redis:6.2.12
+mysql:5.7.30
+mysql:8.0.31
