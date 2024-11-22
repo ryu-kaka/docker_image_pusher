@@ -1,4 +1,1 @@
-busybox:1.32
-redis:6.2.12
-mysql:5.7.30
-mysql:8.0.31
+gitlab/gitlab-ee:16.6.7-ee.0
