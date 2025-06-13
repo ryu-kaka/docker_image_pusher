@@ -1,1 +1,1 @@
-docker.gitea.com/gitea:1.24.0
+docker.io/gitea/act_runner:latest
