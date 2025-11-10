@@ -1,1 +1,1 @@
-bitnami/kubectl:sha256-35aba937f1a89c35d59ae63f6ad0970d2ce61006d85d32da988eae0427edb401
+openjdk:8-jdk
